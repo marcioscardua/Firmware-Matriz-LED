@@ -171,7 +171,7 @@ void main(void){
 				printf_fast_f("Matriz Nome");				
 				break;
 
-				case 'm'://solicita microcontroladores
+				case 'm'://microcontroladores
 				print_leds("MICROCONTROLADORES");
 									
 				printf_fast_f("Matriz microcontroladores");				
